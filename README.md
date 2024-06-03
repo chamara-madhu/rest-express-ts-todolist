@@ -25,9 +25,6 @@ Create env from [.env.example](https://github.com/chamara-madhu/rest-express-ts-
 ## Running the app in local
 
 ```bash
-# development
+# development watch mode
 npm run dev
-
-# watch mode
-npm run start
 ```
